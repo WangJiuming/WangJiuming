@@ -1,5 +1,5 @@
 - 👋 Hi there, I'm Wang Jiuming
-- 🌱 I’m currently learning Artificial Intelligence @CUHK
+- 🌱 I’m currently studying Artificial Intelligence @CUHK
 - 📫 How to reach me: 1155141482@link.cuhk.edu.hk
 
 <!--
