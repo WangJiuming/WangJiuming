@@ -1,4 +1,4 @@
-Hi there 👋 I'm Wang Jiuming
+- 👋 Hi there, I'm Wang Jiuming
 
 <!--
 **WangJiuming/WangJiuming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Artificial Intelligence @CSE @CUHK
+- 🌱 I’m currently learning Artificial Intelligence @CUHK
 - 📫 How to reach me: 1155141482@link.cuhk.edu.hk
 
 
