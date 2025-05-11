@@ -1,6 +1,8 @@
 - 👋 Hi there, I'm Wang Jiuming
-- 🌱 I’m currently studying Artificial Intelligence @CSE CUHK
+- 🌱 I’m currently a PhD student @CSE CUHK
+- 💡 Working with: AI 👾 + Computational Biology 🧬  
 - 📫 Reach me via: jmwang@link.cuhk.edu.hk
+- 🌐 More about me: https://wangjiuming.github.io/homepage/
 
 <!--
 **WangJiuming/WangJiuming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
